@@ -1,5 +1,9 @@
 <template>
   <div class="password-gate-page">
+  <!-- TEMPORARY MOBILE VIEW BANNER -->
+  <div style="position:fixed;top:0;left:0;right:0;z-index:99999;background:#f59e0b;color:#1c1917;text-align:center;font-size:11px;font-weight:800;letter-spacing:0.12em;text-transform:uppercase;padding:4px 8px;pointer-events:none;">
+    ⚠ Temporary Mobile View
+  </div>
     <main class="password-gate-shell">
       <section class="password-gate-content">
         <h1 class="password-gate-title">
